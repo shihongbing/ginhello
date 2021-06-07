@@ -1,0 +1,609 @@
+2021-06-04 11:37:22.437	debug	F:/goprojects/ginhello/main.go:16	系统初始化开始
+2021-06-04 11:37:22.465	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 11:37:25.712	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 11:37:25.712	debug	F:/goprojects/ginhello/main.go:18	系统初始化结束
+2021-06-04 11:38:05.599	debug	F:/goprojects/ginhello/main.go:16	系统初始化开始
+2021-06-04 11:38:05.624	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 11:38:08.754	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 11:38:08.754	debug	F:/goprojects/ginhello/main.go:18	系统初始化结束
+2021-06-04 11:38:08.754	debug	F:/goprojects/ginhello/main.go:22	程序启动了!
+2021-06-04 11:49:13.747	info	F:/goprojects/ginhello/main.go:16	系统初始化开始
+2021-06-04 11:49:13.773	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 11:49:13.970	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 11:49:13.970	info	F:/goprojects/ginhello/main.go:18	系统初始化结束
+2021-06-04 11:49:13.970	info	F:/goprojects/ginhello/main.go:22	程序启动了!
+2021-06-04 12:23:52.821	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 12:23:52.839	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 12:23:53.051	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 12:23:53.051	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 12:23:53.051	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:35:25.600	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTExYrTqNP4lScJb1xnnLvad9P <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:39:58.046	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTFVp1uSBjQuaPbLnFo1AQUacF <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:40:49.341	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTFcIw6ZvlXfH94ZQ46kFSq1Fv <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:48:00.581	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 13:48:00.599	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 13:48:00.806	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 13:48:00.806	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 13:48:00.806	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:48:13.150	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTGW2h8S0WIs3KQ9AiXAASvbqC <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:48:53.323	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTGb3kzVRqhCRgwG3zWsrw5MNg <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:50:30.612	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTGnF0yxMwcDqgRQDgwXeVNNzX <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:50:44.025	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTGp3yBAV1FGjkMAvCSIa03qHJ <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:51:15.807	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTGssYRC9O0YfA3h8IAZFaHkgL <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:52:54.110	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 13:52:54.128	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 13:52:54.331	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 13:52:54.331	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 13:52:54.331	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:53:16.179	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTH88nCpNSrZtUAf17dLwmEDbe <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:53:24.317	error	F:/goprojects/ginhello/middleware/recovery.go:30	1tTH88nCpNSrZtUAf17dLwmEDbe	repository/user.go:21	Error 1054: Unknown column 'e_user.deleted_at' in 'where clause'[185.011ms] [rows:0] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin' AND `e_user`.`deleted_at` IS NULL	/api/auth/pwd	
+
+2021-06-04 13:53:51.454	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTH88nCpNSrZtUAf17dLwmEDbe <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 35275017600  <nil>}
+2021-06-04 13:54:15.507	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTHFb30HewgZy6JLGpGW4bGu1T <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:54:15.660	error	F:/goprojects/ginhello/middleware/recovery.go:30	1tTHFb30HewgZy6JLGpGW4bGu1T	repository/user.go:21	Error 1054: Unknown column 'e_user.deleted_at' in 'where clause'[152.009ms] [rows:0] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin' AND `e_user`.`deleted_at` IS NULL	/api/auth/pwd	
+
+2021-06-04 13:54:15.660	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTHFb30HewgZy6JLGpGW4bGu1T <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 154008800  <nil>}
+2021-06-04 13:55:19.761	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 13:55:19.780	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 13:55:20.027	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 13:55:20.027	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 13:55:20.027	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:55:44.384	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 13:55:44.410	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 13:55:44.604	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 13:55:44.604	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 13:55:44.604	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:55:58.398	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTHSVkcViE7isCObCumd53UBZx <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:55:58.835	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0004ca1c0 -1 200} 0xc0004e2000 0xc0004e8000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0004cc000 {{0 0} 0 0 0 0} map[requestId:1tTHSVkcViE7isCObCumd53UBZx]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [436.025ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 13:55:58.863	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTHSVkcViE7isCObCumd53UBZx <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 465026600  <nil>}
+2021-06-04 13:56:39.736	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 13:56:39.758	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 13:56:39.956	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 13:56:39.956	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 13:56:39.956	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:56:43.827	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTHY8P1OZuPE2hEjvv0Zr9th8W <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:56:44.039	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTHY8P1OZuPE2hEjvv0Zr9th8W	repository/user.go:21	Error 1054: Unknown column 'e_user.deleted_at' in 'where clause'[210.012ms] [rows:0] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin' AND `e_user`.`deleted_at` IS NULL	/api/auth/pwd	
+
+2021-06-04 13:56:44.052	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTHY8P1OZuPE2hEjvv0Zr9th8W <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 225012900  <nil>}
+2021-06-04 13:58:39.746	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 13:58:39.765	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 13:58:39.976	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 13:58:39.976	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 13:58:39.976	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 13:58:53.112	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTHoXaOGptdhWBIrQFNsbystEh <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:58:56.097	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00034a000 -1 200} 0xc000312100 0xc00034e000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0001f1e00 {{0 0} 0 0 0 0} map[requestId:1tTHoXaOGptdhWBIrQFNsbystEh]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [214.012ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 13:58:56.120	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTHoXaOGptdhWBIrQFNsbystEh <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 3008172100  <nil>}
+2021-06-04 13:59:17.140	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTHrUZUgjM8hiVCAF4aEbwkW8d <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 13:59:19.536	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00034a380 -1 200} 0xc000312400 0xc00034e0f0 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0001f1e00 {{0 0} 0 0 0 0} map[requestId:1tTHrUZUgjM8hiVCAF4aEbwkW8d]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [240.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:00:15.178	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTHrUZUgjM8hiVCAF4aEbwkW8d <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 58037319600  <nil>}
+2021-06-04 14:00:40.785	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:00:40.804	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:00:41.066	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:00:41.066	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:00:41.066	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:00:46.877	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTI2hHuwMcLyKBgUkqwCSEdxbY <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:00:50.457	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0000d61c0 -1 200} 0xc0000ee000 0xc0000f4000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0000d8000 {{0 0} 0 0 0 0} map[requestId:1tTI2hHuwMcLyKBgUkqwCSEdxbY]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [694.040ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:01:18.338	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTI2hHuwMcLyKBgUkqwCSEdxbY <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 31460799400  <nil>}
+2021-06-04 14:01:38.764	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:01:38.785	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:01:38.987	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:01:38.988	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:01:38.988	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:01:51.807	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTIAqPLUnOM3lfkfC8zgLsdwa3 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:01:54.152	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00028e000 -1 200} 0xc000186b00 0xc000290000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003ddcc0 {{0 0} 0 0 0 0} map[requestId:1tTIAqPLUnOM3lfkfC8zgLsdwa3]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [248.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:02:55.177	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:02:55.196	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:02:55.396	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:02:55.397	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:02:55.397	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:03:56.591	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTIQWIg5MfN4S3Ren8bzwINQce <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:04:01.005	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000290000 -1 200} 0xc000186c00 0xc000292000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003dbcc0 {{0 0} 0 0 0 0} map[requestId:1tTIQWIg5MfN4S3Ren8bzwINQce]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [317.018ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:04:15.778	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTISzosO17WVE69ieREq13XUqt <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:04:16.030	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000290380 -1 200} 0xc000186e00 0xc0002920f0 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003dbcc0 {{0 0} 0 0 0 0} map[requestId:1tTISzosO17WVE69ieREq13XUqt]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [245.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:04:49.070	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:04:49.086	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:04:49.351	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:04:49.351	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:04:49.351	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:04:55.010	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTIXy3KlfSrWM5k1mpEmXTaoTl <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:04:59.201	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000070000 -1 200} 0xc000050100 0xc000074000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003dbcc0 {{0 0} 0 0 0 0} map[requestId:1tTIXy3KlfSrWM5k1mpEmXTaoTl]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [369.021ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:14:15.829	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:14:15.851	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:14:16.103	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:14:16.104	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:14:16.104	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:14:21.989	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTJh4BPkAvLImNfCy4q8loEGZs <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:14:25.935	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0004321c0 -1 200} 0xc00040c100 0xc00035ed20 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003d9cc0 {{0 0} 0 0 0 0} map[requestId:1tTJh4BPkAvLImNfCy4q8loEGZs]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [590.034ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:15:05.367	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTJh4BPkAvLImNfCy4q8loEGZs <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 43377481000  <nil>}
+2021-06-04 14:17:08.859	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTK22mHnEne3jMEiLtwaHHcbgJ <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:17:25.780	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0000e4000 -1 200} 0xc000096100 0xc00035ed20 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003d9cc0 {{0 0} 0 0 0 0} map[requestId:1tTK22mHnEne3jMEiLtwaHHcbgJ]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [271.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:17:56.170	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTK22mHnEne3jMEiLtwaHHcbgJ <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 47310706000  <nil>}
+2021-06-04 14:18:03.407	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTK8w2K1Igjg4tRMsu7PMukCHR <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:18:05.566	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0000e42a0 -1 200} 0xc000096200 0xc00035ed20 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003d9cc0 {{0 0} 0 0 0 0} map[requestId:1tTK8w2K1Igjg4tRMsu7PMukCHR]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [274.016ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:18:36.145	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTK8w2K1Igjg4tRMsu7PMukCHR <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 32737872500  <nil>}
+2021-06-04 14:33:36.675	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:33:36.718	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:33:36.977	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:33:36.977	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:33:36.977	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:33:54.195	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTM4SkylGejMCtkev5qBeucR5O <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:33:54.557	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000424000 -1 200} 0xc000314200 0xc000360d20 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6c80] 3 /api/auth/pwd 0xc0000ca000 {{0 0} 0 0 0 0} map[requestId:1tTM4SkylGejMCtkev5qBeucR5O]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [358.021ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:34:43.687	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTM4SkylGejMCtkev5qBeucR5O <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 49491830800  <nil>}
+2021-06-04 14:36:58.325	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:36:58.344	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:36:58.554	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:36:58.554	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:36:58.554	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:37:52.137	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTMYSEwr7nCK4RiQU6l1cfANzB <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:37:52.392	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0004b21c0 -1 200} 0xc000390200 0xc0003e0d20 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc00045bcc0 {{0 0} 0 0 0 0} map[requestId:1tTMYSEwr7nCK4RiQU6l1cfANzB]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [254.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 14:38:35.474	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTMYSEwr7nCK4RiQU6l1cfANzB <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 43336478700  <nil>}
+2021-06-04 14:38:51.678	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTMfrx8s6jwl3fgYpd4pFQTYmh <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:38:51.883	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00028a000 -1 200} 0xc000186b00 0xc00028c000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc00045bcc0 {{0 0} 0 0 0 0} map[requestId:1tTMfrx8s6jwl3fgYpd4pFQTYmh]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [205.012ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 14:39:22.253	info	F:/goprojects/ginhello/main.go:17	系统初始化开始
+2021-06-04 14:39:22.275	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 14:39:22.520	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 14:39:22.520	info	F:/goprojects/ginhello/main.go:19	系统初始化结束
+2021-06-04 14:39:22.520	info	F:/goprojects/ginhello/main.go:23	程序启动了!
+2021-06-04 14:39:35.125	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTMlLY2rGjglSqBKlPrJZ5m5vR <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:39:37.496	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0000a6000 -1 200} 0xc000186d00 0xc0000ac000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003a5b80 {{0 0} 0 0 0 0} map[requestId:1tTMlLY2rGjglSqBKlPrJZ5m5vR]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [375.022ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 14:39:58.991	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTMlLY2rGjglSqBKlPrJZ5m5vR <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 23866365100  <nil>}
+2021-06-04 14:40:07.248	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTMpKl460QOkQtriIBmv7YjF5L <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 14:40:09.549	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003d61c0 -1 200} 0xc000186e00 0xc0000ac000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0003a5b80 {{0 0} 0 0 0 0} map[requestId:1tTMpKl460QOkQtriIBmv7YjF5L]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [213.012ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 14:40:45.720	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTMpKl460QOkQtriIBmv7YjF5L <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 38472200500  <nil>}
+2021-06-04 15:09:04.168	info	F:/goprojects/ginhello/main.go:16	系统初始化开始
+2021-06-04 15:09:04.184	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:09:13.444	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:09:13.445	info	F:/goprojects/ginhello/main.go:18	系统初始化结束
+2021-06-04 15:12:13.079	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:12:13.104	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:12:13.335	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:12:13.335	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:12:13.335	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:12:24.419	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTQklukVRsQrzPkkR6FVeHM7zD <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:12:27.889	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000442000 -1 200} 0xc000436000 0xc000446000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0001c7e00 {{0 0} 0 0 0 0} map[requestId:1tTQklukVRsQrzPkkR6FVeHM7zD]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [527.030ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:13:18.799	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTQklukVRsQrzPkkR6FVeHM7zD <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 54380110400  <nil>}
+2021-06-04 15:13:32.201	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTQtHuIBKpJu2u0Flp4CsmaCSP <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:13:35.313	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0002661c0 -1 200} 0xc00015cb00 0xc000446000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0001c7e00 {{0 0} 0 0 0 0} map[requestId:1tTQtHuIBKpJu2u0Flp4CsmaCSP]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [791.045ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:13:57.091	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTQtHuIBKpJu2u0Flp4CsmaCSP <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 24890423700  <nil>}
+2021-06-04 15:16:06.759	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRCdYfVOIVraLHOeyZsGHD1d4 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:16:07.073	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00006a000 -1 200} 0xc000064000 0xc00006e000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0001c7e00 {{0 0} 0 0 0 0} map[requestId:1tTRCdYfVOIVraLHOeyZsGHD1d4]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [313.018ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:16:07.357	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRCdYfVOIVraLHOeyZsGHD1d4 <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 597034100  <nil>}
+2021-06-04 15:16:13.699	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRDZCPkQ4gpKdRmFEyXPCAWj0 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:16:14.042	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00006a2a0 -1 200} 0xc000064300 0xc00006e000 [] [0xbd33e0 0xbd34c0 0xbd3340 0xbd6be0] 3 /api/auth/pwd 0xc0001c7e00 {{0 0} 0 0 0 0} map[requestId:1tTRDZCPkQ4gpKdRmFEyXPCAWj0]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [342.019ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:16:14.329	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRDZCPkQ4gpKdRmFEyXPCAWj0 <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 630036000  <nil>}
+2021-06-04 15:16:32.656	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:16:32.675	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:16:36.331	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:16:36.331	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:16:36.331	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:16:38.795	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRGhq875q5UWuSePfguhGmMk6 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:16:39.040	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000288000 -1 200} 0xc000098100 0xc00028a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc0000cc000 {{0 0} 0 0 0 0} map[requestId:1tTRGhq875q5UWuSePfguhGmMk6]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [244.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:16:39.169	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTRGhq875q5UWuSePfguhGmMk6	runtime error: invalid memory address or nil pointer dereference	/api/auth/pwd	
+goroutine 38 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc00028a000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc000281f00, 0xc0002ac000, 0x172, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc0002ac000, 0x172, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f28, 0xc00028a000, 0xcfc94d, 0x10, 0xc25da0, 0xc000281ef0)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/controller.generateToken(0xc00028a000, 0xc00026c300, 0x24, 0xc00026ef90, 0x4, 0xc00026ef98, 0x4, 0xc000269200, 0x3c, 0xc00026efa0, ...)
+	F:/goprojects/ginhello/controller/auth.go:72 +0x386
+ginhello/controller.(*AuthController).PasswordAuth(0x1094910, 0xc00028a000)
+	F:/goprojects/ginhello/controller/auth.go:39 +0x3e5
+github.com/gin-gonic/gin.(*Context).Next(0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc00028a000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc00028a000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0000cc000, 0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0000cc000, 0xd65cd0, 0xc000288000, 0xc000098100)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0000ca0e0, 0xd65cd0, 0xc000288000, 0xc000098100)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc0000c00a0, 0xd66cf8, 0xc00008d000)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:16:39.169	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRGhq875q5UWuSePfguhGmMk6 <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 374021400  <nil>}
+2021-06-04 15:16:51.990	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRIJvr1BGYOGtWD4dilMqsFTw <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:16:52.369	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000288380 -1 200} 0xc000186d00 0xc00028a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc0000cc000 {{0 0} 0 0 0 0} map[requestId:1tTRIJvr1BGYOGtWD4dilMqsFTw]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [378.022ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:16:52.514	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTRIJvr1BGYOGtWD4dilMqsFTw	runtime error: invalid memory address or nil pointer dereference	/api/auth/pwd	
+goroutine 9 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc00028a000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc0002b4500, 0xc0002ac180, 0x172, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc0002ac180, 0x172, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f28, 0xc00028a000, 0xcfc94d, 0x10, 0xc25da0, 0xc0002b4500)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/controller.generateToken(0xc00028a000, 0xc00026c510, 0x24, 0xc00026f5d0, 0x4, 0xc00026f5d8, 0x4, 0xc0002695c0, 0x3c, 0xc00026f5e0, ...)
+	F:/goprojects/ginhello/controller/auth.go:72 +0x386
+ginhello/controller.(*AuthController).PasswordAuth(0x1094910, 0xc00028a000)
+	F:/goprojects/ginhello/controller/auth.go:39 +0x3e5
+github.com/gin-gonic/gin.(*Context).Next(0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc00028a000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc00028a000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0000cc000, 0xc00028a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0000cc000, 0xd65cd0, 0xc000288380, 0xc000186d00)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0000ca0e0, 0xd65cd0, 0xc000288380, 0xc000186d00)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc000270d20, 0xd66cf8, 0xc000282d40)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:16:52.515	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRIJvr1BGYOGtWD4dilMqsFTw <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 525030100  <nil>}
+2021-06-04 15:17:18.222	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRLk8QUqODzjPUkP78M6rhZy3 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:17:19.984	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0000ca1c0 -1 200} 0xc000098300 0xc0000f4000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc0000cc000 {{0 0} 0 0 0 0} map[requestId:1tTRLk8QUqODzjPUkP78M6rhZy3]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [268.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:17:29.377	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTRLk8QUqODzjPUkP78M6rhZy3	runtime error: invalid memory address or nil pointer dereference	/api/auth/pwd	
+goroutine 40 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc0000f4000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc0002b4900, 0xc0002ac300, 0x172, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc0002ac300, 0x172, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f28, 0xc0000f4000, 0xcfc94d, 0x10, 0xc25da0, 0xc0002b4970)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/controller.generateToken(0xc0000f4000, 0xc00026c6f0, 0x24, 0xc00026f780, 0x4, 0xc00026f788, 0x4, 0xc000269800, 0x3c, 0xc00026f790, ...)
+	F:/goprojects/ginhello/controller/auth.go:72 +0x386
+ginhello/controller.(*AuthController).PasswordAuth(0x1094910, 0xc0000f4000)
+	F:/goprojects/ginhello/controller/auth.go:39 +0x3e5
+github.com/gin-gonic/gin.(*Context).Next(0xc0000f4000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc0000f4000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc0000f4000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc0000f4000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc0000f4000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0000cc000, 0xc0000f4000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0000cc000, 0xd65cd0, 0xc0000ca1c0, 0xc000098300)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0000ca0e0, 0xd65cd0, 0xc0000ca1c0, 0xc000098300)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc0000c0140, 0xd66cf8, 0xc00008d0c0)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:17:29.377	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRLk8QUqODzjPUkP78M6rhZy3 <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 11154638100  <nil>}
+2021-06-04 15:17:52.755	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:17:52.784	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:17:53.073	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:17:53.073	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:17:53.073	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:18:03.584	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRRL3oGa431C30szwLsPRqhht <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:18:06.151	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000298000 -1 200} 0xc000186c00 0xc00029a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc000342000 {{0 0} 0 0 0 0} map[requestId:1tTRRL3oGa431C30szwLsPRqhht]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [250.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:18:20.848	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTRRL3oGa431C30szwLsPRqhht	runtime error: invalid memory address or nil pointer dereference	/api/auth/pwd	
+goroutine 7 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc00029a000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc000281e00, 0xc0002ba000, 0x172, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc0002ba000, 0x172, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f28, 0xc00029a000, 0xcfc94d, 0x10, 0xc25da0, 0xc000281ec0)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/controller.generateToken(0xc00029a000, 0xc00026c2a0, 0x24, 0xc00026ef20, 0x4, 0xc00026ef28, 0x4, 0xc000269280, 0x3c, 0xc00026ef30, ...)
+	F:/goprojects/ginhello/controller/auth.go:72 +0x386
+ginhello/controller.(*AuthController).PasswordAuth(0x1094910, 0xc00029a000)
+	F:/goprojects/ginhello/controller/auth.go:39 +0x3e5
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc00029a000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc00029a000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc000342000, 0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc000342000, 0xd65cd0, 0xc000298000, 0xc000186c00)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0003400e0, 0xd65cd0, 0xc000298000, 0xc000186c00)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc000270be0, 0xd66cf8, 0xc000282700)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:18:32.121	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRRL3oGa431C30szwLsPRqhht <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 28536632200  <nil>}
+2021-06-04 15:18:57.191	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRY7kqozexHjRlHPaNzH2Zecy <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:18:57.386	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000298380 -1 200} 0xc000186e00 0xc00029a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc000342000 {{0 0} 0 0 0 0} map[requestId:1tTRY7kqozexHjRlHPaNzH2Zecy]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [195.011ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:18:57.515	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTRY7kqozexHjRlHPaNzH2Zecy	runtime error: invalid memory address or nil pointer dereference	/api/auth/pwd	
+goroutine 10 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc00029a000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc000308600, 0xc000362000, 0x172, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc000362000, 0x172, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f28, 0xc00029a000, 0xcfc94d, 0x10, 0xc25da0, 0xc000308630)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/controller.generateToken(0xc00029a000, 0xc000324180, 0x24, 0xc00030c380, 0x4, 0xc00030c388, 0x4, 0xc000344140, 0x3c, 0xc00030c390, ...)
+	F:/goprojects/ginhello/controller/auth.go:72 +0x386
+ginhello/controller.(*AuthController).PasswordAuth(0x1094910, 0xc00029a000)
+	F:/goprojects/ginhello/controller/auth.go:39 +0x3e5
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc00029a000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc00029a000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc000342000, 0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc000342000, 0xd65cd0, 0xc000298380, 0xc000186e00)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0003400e0, 0xd65cd0, 0xc000298380, 0xc000186e00)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc000270dc0, 0xd66cf8, 0xc000282dc0)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:18:57.515	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTRY7kqozexHjRlHPaNzH2Zecy <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 324018600  <nil>}
+2021-06-04 15:19:15.244	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRaP7vqBq3S8AFW66aq9leWNR <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:19:15.505	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003401c0 -1 200} 0xc000372100 0xc00029a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc000342000 {{0 0} 0 0 0 0} map[requestId:1tTRaP7vqBq3S8AFW66aq9leWNR]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [259.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'ueba'}
+2021-06-04 15:19:33.078	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTRaP7vqBq3S8AFW66aq9leWNR	runtime error: invalid memory address or nil pointer dereference	/api/auth/pwd	
+goroutine 36 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc00029a000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc000308b00, 0xc000362180, 0x172, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc000362180, 0x172, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f28, 0xc00029a000, 0xcfc94d, 0x10, 0xc25da0, 0xc000308bb0)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/controller.generateToken(0xc00029a000, 0xc000324390, 0x24, 0xc00030c5f0, 0x4, 0xc00030c5f8, 0x4, 0xc000344500, 0x3c, 0xc00030c600, ...)
+	F:/goprojects/ginhello/controller/auth.go:72 +0x386
+ginhello/controller.(*AuthController).PasswordAuth(0x1094910, 0xc00029a000)
+	F:/goprojects/ginhello/controller/auth.go:39 +0x3e5
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc00029a000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc00029a000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc000342000, 0xc00029a000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc000342000, 0xd65cd0, 0xc0003401c0, 0xc000372100)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0003400e0, 0xd65cd0, 0xc0003401c0, 0xc000372100)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc00032e1e0, 0xd66cf8, 0xc0003043c0)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:20:44.644	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:20:44.665	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:20:45.342	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:20:45.342	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:20:45.342	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:21:48.221	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTRtfAkXZ5nWVjRrtnuxacVmrx <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:21:50.956	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003b4000 -1 200} 0xc00038c100 0xc0000e0d20 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd6360] 3 /api/auth/pwd 0xc00007a000 {{0 0} 0 0 0 0} map[requestId:1tTRtfAkXZ5nWVjRrtnuxacVmrx]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [251.014ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:24:03.797	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:24:03.815	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:24:04.328	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:24:04.328	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:24:04.328	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:24:34.986	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTSEW3OncCVm4xXdgOsrvMq6sW <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:24:37.361	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000346000 -1 200} 0xc000312100 0xc00034a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd63e0] 3 /api/auth/pwd 0xc0003a7b80 {{0 0} 0 0 0 0} map[requestId:1tTSEW3OncCVm4xXdgOsrvMq6sW]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [581.033ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:24:45.329	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUwODAsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA0ODB9.q-UFdXAD9l0aiv2U98SlUe8FBeul18muJGZFi9wPN3s
+2021-06-04 15:25:30.918	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTSEW3OncCVm4xXdgOsrvMq6sW <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 55931199100  <nil>}
+2021-06-04 15:25:57.024	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTSOuDfBwI4Kh6Bw4UFkOIJN5K <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:26:00.645	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000346380 -1 200} 0xc000312300 0xc00034a000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd63e0] 3 /api/auth/pwd 0xc0003a7b80 {{0 0} 0 0 0 0} map[requestId:1tTSOuDfBwI4Kh6Bw4UFkOIJN5K]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [278.016ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:26:16.187	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUxNzIsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA1NzJ9.SNXjd40vS6SwPKSJVQ91NchTnO1ZdjxAndiiXq0ZJKs
+2021-06-04 15:26:45.038	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTSOuDfBwI4Kh6Bw4UFkOIJN5K <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 48013746200  <nil>}
+2021-06-04 15:26:58.885	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTSWZPdJWiRr4UhWDbzJ6admp4 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:26:59.142	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003d81c0 -1 200} 0xc000186c00 0xc0002b2d20 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd63e0] 3 /api/auth/pwd 0xc0003a7b80 {{0 0} 0 0 0 0} map[requestId:1tTSWZPdJWiRr4UhWDbzJ6admp4]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [257.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:27:07.581	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUyMjcsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA2Mjd9.jJ1SsNvVpkUjZO7ZUNNveRz_7cZWZyUSjXil1zLvEFc
+2021-06-04 15:27:07.581	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTSWZPdJWiRr4UhWDbzJ6admp4 <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 8697497400  <nil>}
+2021-06-04 15:27:12.499	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTSYRi8Q9kigDfylDH2ul1LkiF <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:27:12.764	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003d8460 -1 200} 0xc000186d00 0xc0002b2d20 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd63e0] 3 /api/auth/pwd 0xc0003a7b80 {{0 0} 0 0 0 0} map[requestId:1tTSYRi8Q9kigDfylDH2ul1LkiF]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [263.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:27:12.911	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUyMzIsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA2MzJ9.bfZdMOE2n3xVNwtAFt0GOl8PtyNBQ_NEb1-uMs7ow_8
+2021-06-04 15:27:12.911	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTSYRi8Q9kigDfylDH2ul1LkiF <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 412023600  <nil>}
+2021-06-04 15:28:03.445	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTSepQeBnppe3CTjmffCwR1R0n <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:28:03.707	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0000aa000 -1 200} 0xc000186e00 0xc0000ae000 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd63e0] 3 /api/auth/pwd 0xc0003a7b80 {{0 0} 0 0 0 0} map[requestId:1tTSepQeBnppe3CTjmffCwR1R0n]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [262.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:28:03.833	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUyODMsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA2ODN9.V7-Dqt-39Ks1HYFRa8KEf2QlXwRLMgH2Jb_R7xjkoQw
+2021-06-04 15:28:11.649	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTSepQeBnppe3CTjmffCwR1R0n <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 8203469200  <nil>}
+2021-06-04 15:28:29.387	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTSi579ZgElvKyvFyO2rvAsYk1 <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:28:29.786	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003d8700 -1 200} 0xc000186f00 0xc0002b2d20 [] [0xbd2ba0 0xbd2c80 0xbd2b00 0xbd63e0] 3 /api/auth/pwd 0xc0003a7b80 {{0 0} 0 0 0 0} map[requestId:1tTSi579ZgElvKyvFyO2rvAsYk1]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [399.023ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:28:29.918	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:28:29.919	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTSi579ZgElvKyvFyO2rvAsYk1 <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 532030500  <nil>}
+2021-06-04 15:31:36.791	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTT5W6NG7Bz9xHOIWaOtMFCUgQ <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get <nil>} {query 15 0 id=123 <nil>} {post 23 0  map[]}
+2021-06-04 15:31:36.792	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTT5W6NG7Bz9xHOIWaOtMFCUgQ	runtime error: invalid memory address or nil pointer dereference	/api/user/get	id=123
+goroutine 38 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc0000ae000)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc00008c200, 0xc0000da000, 0x17f, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc0000da000, 0x17f, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f48, 0xc0000ae000, 0xcf8d1e, 0xa, 0xc25da0, 0xc00008c240)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/middleware.JWTAuth.func1(0xc0000ae000)
+	F:/goprojects/ginhello/middleware/jwt.go:32 +0x165
+github.com/gin-gonic/gin.(*Context).Next(0xc0000ae000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc0000ae000)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc0000ae000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc0000ae000)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc0000ae000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0003a7b80, 0xc0000ae000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0003a7b80, 0xd65cf0, 0xc0000aa2a0, 0xc0000d0100)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0003d80e0, 0xd65cf0, 0xc0000aa2a0, 0xc0000d0100)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc0000d2000, 0xd66d18, 0xc000096440)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:31:36.792	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTT5W6NG7Bz9xHOIWaOtMFCUgQ <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 1000100  <nil>}
+2021-06-04 15:32:37.768	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTTDFQBs5kbJGebNSODa6uu0mx <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get <nil>} {query 15 0 id=123 <nil>} {post 23 0  map[]}
+2021-06-04 15:32:37.768	error	F:/goprojects/ginhello/middleware/recovery.go:31	1tTTDFQBs5kbJGebNSODa6uu0mx	runtime error: invalid memory address or nil pointer dereference	/api/user/get	id=123
+goroutine 57 [running]:
+runtime/debug.Stack(0x0, 0x0, 0x0)
+	D:/Go/src/runtime/debug/stack.go:24 +0xac
+ginhello/middleware.recoverLog.func1(0xc0002b2d20)
+	F:/goprojects/ginhello/middleware/recovery.go:21 +0x8e
+panic(0xc4f0e0, 0x103a080)
+	D:/Go/src/runtime/panic.go:971 +0x4e6
+go.uber.org/zap.(*Logger).check(0x0, 0xc0003db500, 0xc0003f2600, 0x17f, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:265 +0x6d
+go.uber.org/zap.(*Logger).Info(0x0, 0xc0003f2600, 0x17f, 0x0, 0x0, 0x0)
+	D:/GoRepository/pkg/mod/go.uber.org/zap@v1.17.0/logger.go:188 +0x4b
+ginhello/core/logger.Info(0xd66f48, 0xc0002b2d20, 0xcf8d1e, 0xa, 0xc25da0, 0xc0003db500)
+	F:/goprojects/ginhello/core/logger/log.go:66 +0xad
+ginhello/middleware.JWTAuth.func1(0xc0002b2d20)
+	F:/goprojects/ginhello/middleware/jwt.go:32 +0x165
+github.com/gin-gonic/gin.(*Context).Next(0xc0002b2d20)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.recoverLog(0xc0002b2d20)
+	F:/goprojects/ginhello/middleware/recovery.go:40 +0x65
+github.com/gin-gonic/gin.(*Context).Next(0xc0002b2d20)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+ginhello/middleware.accessLog.func1(0xc0002b2d20)
+	F:/goprojects/ginhello/middleware/accessLog.go:27 +0x6dd
+github.com/gin-gonic/gin.(*Context).Next(0xc0002b2d20)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/context.go:161 +0x9c
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0003a7b80, 0xc0002b2d20)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:409 +0x46e
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0003a7b80, 0xd65cf0, 0xc0003d89a0, 0xc000187000)
+	D:/GoRepository/pkg/mod/github.com/gin-gonic/gin@v1.6.3/gin.go:367 +0xe5
+net/http.serverHandler.ServeHTTP(0xc0003d80e0, 0xd65cf0, 0xc0003d89a0, 0xc000187000)
+	D:/Go/src/net/http/server.go:2887 +0x22b
+net/http.(*conn).serve(0xc0003b9860, 0xd66d18, 0xc0003f4cc0)
+	D:/Go/src/net/http/server.go:1952 +0x1c25
+created by net/http.(*Server).Serve
+	D:/Go/src/net/http/server.go:3013 +0x974
+
+2021-06-04 15:32:37.769	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTTDFQBs5kbJGebNSODa6uu0mx <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 1000100  <nil>}
+2021-06-04 15:34:00.974	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:34:00.996	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:34:01.248	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:34:01.248	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:34:01.248	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:34:33.244	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTTRq9CTkfsWMqWt2oMaYhVxKe <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get <nil>} {query 15 0 id=123 <nil>} {post 23 0  map[]}
+2021-06-04 15:34:33.245	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc0003da000 -1 200} 0xc0003b6100 0xc000310d20 [] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get 0xc0000c2000 {{0 0} 0 0 0 0} map[requestId:1tTTRq9CTkfsWMqWt2oMaYhVxKe]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:34:47.802	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTTRq9CTkfsWMqWt2oMaYhVxKe <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 14558832700  <nil>}
+2021-06-04 15:35:18.888	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTTXR8aliR3J91Mw8kz0EBwlpK <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get <nil>} {query 15 0 id=123 <nil>} {post 23 0  map[]}
+2021-06-04 15:35:18.888	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc0003da1c0 -1 200} 0xc0003b6200 0xc000310d20 [] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get 0xc0000c2000 {{0 0} 0 0 0 0} map[requestId:1tTTXR8aliR3J91Mw8kz0EBwlpK]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:35:18.888	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTTXR8aliR3J91Mw8kz0EBwlpK <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 0  <nil>}
+2021-06-04 15:35:41.571	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTTaPcdQ4DBK2jpk4UxKutXHzW <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get/123 <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:35:41.571	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTTaPcdQ4DBK2jpk4UxKutXHzW <nil>} {http_status 11 404  <nil>} {data 23 0  <nil>} {cost 8 0  <nil>}
+2021-06-04 15:37:55.756	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:37:55.791	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:37:56.041	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:37:56.041	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:37:56.041	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:38:04.376	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTTsNmdhLrark8qMYPStcg3bHG <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get/123 <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:38:04.376	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc0004d0000 -1 200} 0xc0004ca000 0xc0004d4000 [{id /123}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get/*id 0xc0001f1e00 {{0 0} 0 0 0 0} map[requestId:1tTTsNmdhLrark8qMYPStcg3bHG]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:38:04.586	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0004d0000 -1 200} 0xc0004ca000 0xc0004d4000 [{id /123}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 4 /api/user/get/*id 0xc0001f1e00 {{0 0} 0 0 0 0} map[claims:0xc0004de000 requestId:1tTTsNmdhLrark8qMYPStcg3bHG]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 15 [208.012ms] [rows:0] SELECT * FROM `e_user` WHERE `e_user`.`id` = '/123'}
+2021-06-04 15:38:04.587	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTTsNmdhLrark8qMYPStcg3bHG <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 211012100  <nil>}
+2021-06-04 15:39:08.958	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTU0JjXp9YcSx2dsPEZAd3aGSV <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get/0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504 <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:39:08.958	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc0004d0380 -1 200} 0xc0004ca200 0xc0004d4000 [{id /0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get/*id 0xc0001f1e00 {{0 0} 0 0 0 0} map[requestId:1tTU0JjXp9YcSx2dsPEZAd3aGSV]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:39:12.253	warn	F:/goprojects/ginhello/core/database.go:134	&{{0xc0004d0380 -1 200} 0xc0004ca200 0xc0004d4000 [{id /0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 4 /api/user/get/*id 0xc0001f1e00 {{0 0} 0 0 0 0} map[claims:0xc0004de1e0 requestId:1tTU0JjXp9YcSx2dsPEZAd3aGSV]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 15 SLOW SQL >= 3[3293.188ms] [rows:0] SELECT * FROM `e_user` WHERE `e_user`.`id` = '/0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504'}
+2021-06-04 15:39:12.253	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTU0JjXp9YcSx2dsPEZAd3aGSV <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 3294188400  <nil>}
+2021-06-04 15:39:33.991	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTU3Vv8dTigSENtEoIt1FlN3ok <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get/0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504 <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:39:33.991	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc00041e000 -1 200} 0xc00040a100 0xc000360d20 [{id /0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get/*id 0xc0001f1e00 {{0 0} 0 0 0 0} map[requestId:1tTU3Vv8dTigSENtEoIt1FlN3ok]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:40:22.151	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00041e000 -1 200} 0xc00040a100 0xc000360d20 [{id /0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 4 /api/user/get/*id 0xc0001f1e00 {{0 0} 0 0 0 0} map[claims:0xc0003ddea0 requestId:1tTU3Vv8dTigSENtEoIt1FlN3ok]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 15 [224.013ms] [rows:0] SELECT * FROM `e_user` WHERE `e_user`.`id` = '/0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504'}
+2021-06-04 15:40:22.151	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTU3Vv8dTigSENtEoIt1FlN3ok <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 48159754600  <nil>}
+2021-06-04 15:41:56.050	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:41:56.072	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:41:56.313	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:41:56.313	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:41:56.313	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:42:34.235	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTUQFMgGRm9Nu9wTyLiFnxA6GI <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get/0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504 <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:42:34.236	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc0003da000 -1 200} 0xc000048200 0xc000308d20 [{id 0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get/:id 0xc0001cfe00 {{0 0} 0 0 0 0} map[requestId:1tTUQFMgGRm9Nu9wTyLiFnxA6GI]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:42:41.901	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003da000 -1 200} 0xc000048200 0xc000308d20 [{id 0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 4 /api/user/get/:id 0xc0001cfe00 {{0 0} 0 0 0 0} map[claims:0xc000383e00 requestId:1tTUQFMgGRm9Nu9wTyLiFnxA6GI]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 15 [331.019ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`id` = '0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504'}
+2021-06-04 15:42:41.901	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTUQFMgGRm9Nu9wTyLiFnxA6GI <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 7665438400  <nil>}
+2021-06-04 15:43:00.410	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTUTWoZb94mzLEhUS3dpBFKHEW <nil>} {method 15 0 GET <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/user/get/0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504 <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:43:00.410	info	F:/goprojects/ginhello/middleware/jwt.go:32	&{{0xc00026a2a0 -1 200} 0xc000164b00 0xc000308d20 [{id 0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 3 /api/user/get/:id 0xc0001cfe00 {{0 0} 0 0 0 0} map[requestId:1tTUTWoZb94mzLEhUS3dpBFKHEW]  [] map[] map[] 0}get token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTUzMDksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTA3MDl9.saGffiBXCcJH1pE3-sd3SkzPUmekEL9lyDEZXg4vxoQ
+2021-06-04 15:43:00.644	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc00026a2a0 -1 200} 0xc000164b00 0xc000308d20 [{id 0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504}] [0xbc9fa0 0xbca080 0xbc9f00 0xbcae60 0xbcd920] 4 /api/user/get/:id 0xc0001cfe00 {{0 0} 0 0 0 0} map[claims:0xc00024cdc0 requestId:1tTUTWoZb94mzLEhUS3dpBFKHEW]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 15 [233.013ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`id` = '0d25f2e5-f8e1-4ec9-be3e-f555a1b9f504'}
+2021-06-04 15:43:00.645	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTUTWoZb94mzLEhUS3dpBFKHEW <nil>} {http_status 11 200  <nil>} {data 23 0  <nil>} {cost 8 235013400  <nil>}
+2021-06-04 15:52:28.673	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 15:52:28.706	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 15:52:28.958	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 15:52:28.958	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 15:52:28.958	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 15:52:48.823	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTVfNqMjo9LZ72DzxDcNzSG7EW <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 15:52:49.089	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc000424000 -1 200} 0xc000312200 0xc000360d20 [] [0xbca1c0 0xbca2a0 0xbca120 0xbcdac0] 3 /api/auth/pwd 0xc0001f1e00 {{0 0} 0 0 0 0} map[requestId:1tTVfNqMjo9LZ72DzxDcNzSG7EW]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [263.015ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 15:52:49.255	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTY3NjksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTIxNjl9.X2WGosxZnfj82veQBpLcGESto13QqREZq74mcstz-LU
+2021-06-04 15:53:01.177	info	F:/goprojects/ginhello/middleware/accessLog.go:37	response{requestId 15 0 1tTVfNqMjo9LZ72DzxDcNzSG7EW <nil>} {http_status 11 200  <nil>} {data 23 0  {1000 认证成功 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTY3NjksImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTIxNjl9.X2WGosxZnfj82veQBpLcGESto13QqREZq74mcstz-LU}} {cost 8 433024800  <nil>}
+2021-06-04 16:04:20.168	info	F:/goprojects/ginhello/main.go:19	系统初始化开始
+2021-06-04 16:04:20.194	info	F:/goprojects/ginhello/core/database.go:22	连接数据库......
+2021-06-04 16:04:20.455	info	F:/goprojects/ginhello/core/database.go:52	连接数据库成功
+2021-06-04 16:04:20.455	info	F:/goprojects/ginhello/main.go:21	系统初始化结束
+2021-06-04 16:04:20.455	info	F:/goprojects/ginhello/main.go:25	程序启动了!
+2021-06-04 16:04:29.740	info	F:/goprojects/ginhello/middleware/accessLog.go:19	request {requestId 15 0 1tTX5Rk2n4ZJKcQh7sLetwuwyah <nil>} {method 15 0 POST <nil>} {ip 15 0 127.0.0.1 <nil>} {path 15 0 /api/auth/pwd <nil>} {query 15 0  <nil>} {post 23 0  map[]}
+2021-06-04 16:04:30.064	debug	F:/goprojects/ginhello/core/database.go:144	&{{0xc0003ca000 -1 200} 0xc0003a8100 0xc000300d20 [] [0xbca1c0 0xbca2a0 0xbca120 0xbcd920] 3 /api/auth/pwd 0xc0000d4000 {{0 0} 0 0 0 0} map[requestId:1tTX5Rk2n4ZJKcQh7sLetwuwyah]  [] map[] map[] 0}gorm{F:/goprojects/ginhello/repository/user.go 21 [323.018ms] [rows:1] SELECT * FROM `e_user` WHERE `e_user`.`account` = 'sysadmin'}
+2021-06-04 16:04:30.203	info	F:/goprojects/ginhello/controller/auth.go:72	generateToken：eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTc0NzAsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTI4NzB9.y4vdXwthSC9ICu9gykXRRYLIXI8Hshu4KPytTk6pa4k
+2021-06-04 16:04:30.203	info	F:/goprojects/ginhello/middleware/accessLog.go:38	requestId 1tTX5Rk2n4ZJKcQh7sLetwuwyah response :http_status= 200 data= {1000 认证成功 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiMDNhYzNjLWJkY2ItNDcwYS05MjViLWVlZTJkYzNlNjMyNiIsImFjY291bnQiOiJzeXNhZG1pbiIsInVzZXJOYW1lIjoi57O757uf566h55CG5ZGYIiwiZW1haWwiOiJwaWFvbGFpZGViaW5nQDEyNi5jb20iLCJleHAiOjE2MjI3OTc0NzAsImlzcyI6ImJnYmlhby50b3AiLCJuYmYiOjE2MjI3OTI4NzB9.y4vdXwthSC9ICu9gykXRRYLIXI8Hshu4KPytTk6pa4k} cost=464026600

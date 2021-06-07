@@ -1,0 +1,16 @@
+2021-06-03 11:09:53.154	INFO	request 	{"requestId": "1tQ88YmB8Hga9QWw1YI7r8BB0Uj", "method": "GET", "ip": "127.0.0.1", "path": "/api/user/get/99", "query": "", "post": {}}
+2021-06-03 11:09:53.216	INFO	response	{"requestId": "1tQ88YmB8Hga9QWw1YI7r8BB0Uj", "http_status": 404, "data": null, "cost": 0.0630036}
+2021-06-03 11:10:47.100	INFO	request 	{"requestId": "1tQ8FO1SgiubaqrUDokWxMFBvYj", "method": "GET", "ip": "127.0.0.1", "path": "/api/user/get/:99", "query": "", "post": {}}
+2021-06-03 11:10:47.100	INFO	response	{"requestId": "1tQ8FO1SgiubaqrUDokWxMFBvYj", "http_status": 404, "data": null, "cost": 0}
+2021-06-03 11:11:29.103	INFO	request 	{"requestId": "1tQ8KaUBnZzpApCWUXP02DhbxOS", "method": "GET", "ip": "127.0.0.1", "path": "/api/user/get", "query": "", "post": {}}
+2021-06-03 11:11:29.103	INFO	response	{"requestId": "1tQ8KaUBnZzpApCWUXP02DhbxOS", "http_status": 404, "data": null, "cost": 0}
+2021-06-03 11:11:31.800	INFO	request 	{"requestId": "1tQ8KqvSttOqhDIrXqr84tnkdHa", "method": "GET", "ip": "::1", "path": "/api/user/get", "query": "", "post": {}}
+2021-06-03 11:11:31.800	INFO	response	{"requestId": "1tQ8KqvSttOqhDIrXqr84tnkdHa", "http_status": 404, "data": null, "cost": 0}
+2021-06-03 11:11:31.910	INFO	request 	{"requestId": "1tQ8Ksg03gRlQweg5E6bFsoKo4q", "method": "GET", "ip": "::1", "path": "/favicon.ico", "query": "", "post": {}}
+2021-06-03 11:11:31.910	INFO	response	{"requestId": "1tQ8Ksg03gRlQweg5E6bFsoKo4q", "http_status": 404, "data": null, "cost": 0}
+2021-06-03 11:12:17.606	INFO	request 	{"requestId": "1tQ8OwqHckLDNLAqTQkpmj3tKRQ", "method": "GET", "ip": "127.0.0.1", "path": "/api/user/get", "query": "", "post": {}}
+2021-06-03 11:12:28.473	INFO	response	{"requestId": "1tQ8OwqHckLDNLAqTQkpmj3tKRQ", "http_status": 404, "data": null, "cost": 10.2685874}
+2021-06-03 11:19:52.904	INFO	request 	{"requestId": "1tQ9LdYunaTQl40G0Q3vE6nDmTt", "method": "GET", "ip": "127.0.0.1", "path": "/api/user/get", "query": "", "post": {}}
+2021-06-03 11:19:55.519	INFO	response	{"requestId": "1tQ9LdYunaTQl40G0Q3vE6nDmTt", "http_status": 200, "data": null, "cost": 0.0040002}
+2021-06-03 11:20:13.946	INFO	request 	{"requestId": "1tQ9OTswnSUJ92ag6P4LlL22B7c", "method": "GET", "ip": "127.0.0.1", "path": "/api/user/get", "query": "", "post": {}}
+2021-06-03 11:20:13.946	INFO	response	{"requestId": "1tQ9OTswnSUJ92ag6P4LlL22B7c", "http_status": 200, "data": null, "cost": 0}
