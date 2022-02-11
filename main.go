@@ -11,7 +11,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func init()  {
+func init() {
 	//日志初始化
 	//logger.InitLog()
 	//logger.SyncLog()
@@ -21,11 +21,12 @@ func init()  {
 	logger.Logger.Info("系统初始化结束")
 }
 
-func main()  {
+func main() {
 	logger.Logger.Info("程序启动了!")
-	if config.AppConfig.Debug{
+	logger.Logger.Info("gopacketTest end!")
+	if config.AppConfig.Debug {
 		gin.SetMode(gin.DebugMode)
-	}else{
+	} else {
 		gin.SetMode(gin.ReleaseMode)
 	}
 	engine := gin.New()
@@ -39,7 +40,7 @@ func main()  {
 	//pwdTest()
 }
 
-func pwdTest()  {
+func pwdTest() {
 	passwordOK := "ueba_qwer1234!"
 	passwordERR := "adminxx"
 
@@ -71,6 +72,7 @@ func resourceRelease() {
 		core.DisconnectDB()
 	}()
 }
+
 //func simpleHttpGet(url string) {
 //	logger.Logger.Debugf("Trying to hit GET request for %s", url)
 //	resp, err := http.Get(url)
@@ -81,4 +83,3 @@ func resourceRelease() {
 //		resp.Body.Close()
 //	}
 //}
-
